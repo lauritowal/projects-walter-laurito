@@ -14,48 +14,47 @@ https://www.volunteerworld.com/
 # DSGVO Portal - IT Informatik
 Das ist eine Webapp, die bei der Umsetzung der DSGVO-Verordnung zur Hilfe kommt. Als Full Stack Developer kümmere mich hierbei ebenfalls um die Implementierung neuer Features und alles was dazu gehört.
 
-![Vowo](dsgvo.png)
-
-
 Frontend: React und Redux (Webcomponents)
 Backend: NodeJS, Postgres
 
+![Vowo](dsgvo.png)
 
 # Rose
 Bei diesem Projekt handelte es sich um eine Webapp für Zahnarztpraxen, die zu einer besseren Übersicht von Kunden- und Mitarbeiterdaten beitragen soll. Ich war an diesem Projekt ebenfalls als Full Stack Entwickler beteiligt.
 
-![Vowo](rose.png)
-
-
 Frontend: Angular 5 
 Backend: NodeJS, MySQL
 
+![Vowo](rose.png)
+
 
 # Intranet - Festspielhaus Baden-Baden
-
-![Vowo](festspielhaus.png)
-
-
 Ich habe das komplette Intranet für das Festspielhaus Baden-Baden umgesetzt.
 Javascript, HTML, Wordpress und MySQL
+
+![Vowo](festspielhaus.png)
 
 
 # Webapp - Erdgas Schwaben 
 Ich habe mich um das komplette Frontend (Angular) gekümmert.
 
+Frontend: Angular 5 
+
 ![Vowo](erdgasschwaben.png)
 
-Frontend: Angular 5 
+
 
 
 
 # Intranet - Handwerkskammer Rheinhessen
 
+Ich habe das komplette Intranet für die Handwerkskammer Rheinhessen umgesetzt.
+Javascript, HTML, Wordpress, Buddypress und MySQL
+
 ![Vowo](hwk.png)
 
 
-Ich habe das komplette Intranet für die Handwerkskammer Rheinhessen umgesetzt.
-Javascript, HTML, Wordpress, Buddypress und MySQL
+
 
 
 
