@@ -51,7 +51,7 @@ Frontend: Angular 5
 
 # Intranet - Handwerkskammer Rheinhessen
 
-![Vowo](erdgasschwaben.png)
+![Vowo](hwk.png)
 
 
 Ich habe das komplette Intranet für die Handwerkskammer Rheinhessen umgesetzt.
