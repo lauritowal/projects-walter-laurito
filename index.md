@@ -39,6 +39,7 @@ Backend: NodeJS, MySQL
 
 # Intranet - Festspielhaus Baden-Baden
 Ich habe das komplette Intranet für das Festspielhaus Baden-Baden umgesetzt.
+
 Javascript, HTML, Wordpress und MySQL
 
 
@@ -46,9 +47,11 @@ Javascript, HTML, Wordpress und MySQL
 
 
 # Webapp - Erdgas Schwaben 
-Ich habe mich um das komplette Frontend (Angular) gekümmert.
+Ich habe mich um das komplette Frontend (Angular) gekümmert. Bei dieser Applikation können Kunden von Erdgas Schwaben einen besseren Überblick über ihre Stromkosten erhalten.
 
 Frontend: Angular 5 
+
+Backend: Java (Spring)
 
 
 ![Vowo](erdgasschwaben.png)
@@ -60,6 +63,7 @@ Frontend: Angular 5
 # Intranet - Handwerkskammer Rheinhessen
 
 Ich habe das komplette Intranet für die Handwerkskammer Rheinhessen umgesetzt.
+
 Javascript, HTML, Wordpress, Buddypress und MySQL
 
 
