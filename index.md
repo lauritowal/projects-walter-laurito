@@ -47,7 +47,7 @@ Javascript, HTML, Wordpress und MySQL
 
 
 # Webapp - Erdgas Schwaben 
-Ich habe mich um das komplette Frontend (Angular) gekümmert. Bei dieser Applikation können Kunden von Erdgas Schwaben einen besseren Überblick über ihre Stromkosten erhalten.
+Ich habe mich um das Frontend (Angular) gekümmert. Bei dieser Applikation können Kunden von Erdgas Schwaben einen besseren Überblick über ihre Stromkosten erhalten.
 
 Frontend: Angular 5 
 
