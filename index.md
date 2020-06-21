@@ -1,7 +1,3 @@
-
-
-# English
-
 # Volunteer World
 Volunteer World is the World's leading comparison platform for volunteer abroad programs. 93400+ registered volunteers and 200+ organizations from all around the globe.
 I've worked many years as full stack developer on many parts of the web app.
@@ -76,90 +72,6 @@ Backend: Wordpress, Buddypress und MySQL
 
 
 ![HWK](hwk.png)
-
-
-# German
-
-# Volunteer World
-Bei Volunteer World handelt es sich um eine Plattform, die den Austausch zwischen Volontären und Hilfsorganisationen vereinfacht. Als Full Stack Developer setze ich neue Features um und erweiterte vorhandene Komponenten. 
-
-
-[https://www.volunteerworld.com/](https://www.volunteerworld.com/)
-
-
-Frontend: Polymer / Lit Element (Webcomponents)
-Backend: Neos Flow (PHP), MySQL
-
-![Vowo](vowo.png)
-
-
-
-
-# DSGVO Portal - IT Informatik
-Das ist eine Webapp, die bei der Umsetzung der DSGVO-Verordnung zur Hilfe kommt. Als Full Stack Developer kümmere mich hierbei ebenfalls um die Implementierung neuer Features und alles was dazu gehört.
-
-Frontend: React und Redux (Webcomponents)
-Backend: NodeJS, Postgres
-
-
-![Vowo](dsgvo.png)
-
-# Rose
-Bei diesem Projekt handelte es sich um eine Webapp für Zahnarztpraxen, die zu einer besseren Übersicht von Kunden- und Mitarbeiterdaten beitragen soll. Ich war an diesem Projekt ebenfalls als Full Stack Entwickler beteiligt.
-
-Frontend: Angular 5 
-Backend: NodeJS, MySQL
-
-
-![Vowo](rose.png)
-
-
-# Intranet - Festspielhaus Baden-Baden
-Ich habe das komplette Intranet für das Festspielhaus Baden-Baden umgesetzt.
-
-Javascript, HTML, Wordpress und MySQL
-
-
-![Vowo](festspielhaus.png)
-
-
-# Webapp - Erdgas Schwaben 
-Ich habe mich um das Frontend (Angular) gekümmert. Bei dieser Applikation können Kunden von Erdgas Schwaben einen besseren Überblick über ihre Stromkosten erhalten.
-
-Frontend: Angular 5 
-Backend: Java (Spring)
-
-
-![Vowo](erdgasschwaben.png)
-
-
-
-
-
-# Intranet - Handwerkskammer Rheinhessen
-
-Ich habe das komplette Intranet für die Handwerkskammer Rheinhessen umgesetzt.
-
-Javascript, HTML, Wordpress, Buddypress und MySQL
-
-
-![Vowo](hwk.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
